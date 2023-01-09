@@ -1,4 +1,6 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="200" />
+</div>  
   
 
 ### <div align="center">I'm Vinicius, a full-time frontend developer 👨‍💻</div>  
