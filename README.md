@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="200" />
-</div>  
-  
-
 ### <div align="center">I'm Vinicius, a full-time frontend developer 👨‍💻</div>  
   
 
@@ -73,4 +68,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
